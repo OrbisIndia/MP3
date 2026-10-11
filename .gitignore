@@ -1,0 +1,23 @@
+# secrets — never commit; .env.example is the template
+.env
+.env.*
+!.env.example
+
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# demo recording + submission bundles (too big for GitHub; link the video instead)
+*.mp4
+*.mov
+*.zip
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*

@@ -1,0 +1,6 @@
+{"id": "p1_speckled_band_julia", "question": "What killed Julia Stoner?", "should_abstain": false, "expected_source": "02_speckled_band.txt", "expected_facts": ["swamp adder", "ventilator", "bell-rope"]}
+{"id": "p2_red_headed_league_clay", "question": "Who was the assistant working at Jabez Wilson's pawnshop, and what was his real identity?", "should_abstain": false, "expected_source": "01_red_headed_league.txt", "expected_facts": ["Vincent Spaulding", "John Clay"]}
+{"id": "p3_engineers_thumb_becher", "question": "What was Colonel Lysander Stark's real name, and what was the hydraulic press at Eyford actually being used for?", "should_abstain": false, "expected_source": "04_engineers_thumb.txt", "expected_facts": ["Becher", "counterfeit", "half-crowns"]}
+{"id": "p4_scandal_adler_marriage", "question": "In A Scandal in Bohemia, who did Irene Adler secretly marry and at which church?", "should_abstain": false, "expected_source": "05_scandal_in_bohemia.txt", "expected_facts": ["Godfrey Norton", "St Monica"]}
+{"id": "p5_abstain_moriarty", "question": "Who is Professor Moriarty?", "should_abstain": true}
+{"id": "p6_abstain_reichenbach", "question": "What happened to Sherlock Holmes at the Reichenbach Falls?", "should_abstain": true}

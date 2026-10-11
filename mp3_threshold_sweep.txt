@@ -1,0 +1,26 @@
+Threshold sweep over 9 questions (k=5)
+
+threshold    hit grounded abstain halluc
+------------------------------------------
+     0.20   1.00     1.00    1.00   0.00
+     0.25   1.00     1.00    1.00   0.00
+     0.30   1.00     1.00    1.00   0.00
+     0.35   1.00     1.00    1.00   0.00
+     0.40   1.00     1.00    1.00   0.00
+     0.45   1.00     1.00    1.00   0.00
+     0.50   1.00     1.00    1.00   0.00
+     0.55   0.83     1.00    1.00   0.00
+     0.60   0.83     1.00    1.00   0.00
+     0.65   0.50     1.00    1.00   0.00
+     0.70   0.17     1.00    1.00   0.00
+
+Top retrieval score per question:
+  0.514  answer   p1_speckled_band_julia
+  0.689  answer   p2_red_headed_league_clay
+  0.622  answer   p3_engineers_thumb_becher
+  0.623  answer   p4_scandal_adler_marriage
+  0.473  abstain  p5_abstain_moriarty
+  0.526  abstain  p6_abstain_reichenbach
+  0.664  answer   l1_red_headed_league_money
+  0.711  answer   l2_scandal_photo_hiding_place
+  0.593  abstain  l3_abstain_oakshott_husband
